@@ -14,6 +14,9 @@
   <a href="https://github.com/Harshupadhyay2026">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile">
   </a>
+  <a href="https://harshupadhyay2026.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-5368E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio">
+  </a>
 </p>
 
 ## About Me
@@ -51,3 +54,5 @@ A platform where students can exchange skills, arrange learning sessions, and le
 - [LinkedIn](https://www.linkedin.com/in/harsh-upadhyay-96b903335/)
 - [LeetCode](https://leetcode.com/u/harshupadhyay2026/)
 - [GitHub](https://github.com/Harshupadhyay2026)
+- [Portfolio](https://harshupadhyay2026.github.io)
+- [Resume (PDF)](https://harshupadhyay2026.github.io/resume.pdf)
