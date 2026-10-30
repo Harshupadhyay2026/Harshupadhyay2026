@@ -32,7 +32,7 @@ A platform where students can exchange skills, arrange learning sessions, and le
 - Find peers by the skills they can teach and want to learn, then propose and manage skill swaps.
 - Includes shared learning sessions, Jitsi video rooms, messaging, Q&A, reviews, and notifications.
 - **Built with:** Java 21, Spring Boot 3.4, React 19, Vite 8, and MySQL 8.
-- **Repository:** [Harshupadhyay2026/skillswap](https://github.com/Harshupadhyay2026/skillswap) — 🔒 Private repository; demo or access available on request.
+- **Repository:** [Harshupadhyay2026/skillswap](https://github.com/Harshupadhyay2026/skillswap)
 
 ## Tech Stack
 
